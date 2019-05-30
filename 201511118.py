@@ -60,7 +60,6 @@ for a in sorted(list(set(data['지역구']))) :
     areastr = areastr + ' ' + a
 areastr = '(' + areastr.strip().replace(" ",", ") + ')'
 here = input("위치하고 있는 지역구를 선택하여 주십시오.\n"+areastr)
-print(areastr[1:-1].split(", "))
 if here in areastr[1:-1].split(", ") :
     aroundarea = data.loc[data['지역구'] == here]
     print("주변 주차장명은 다음과 같습니다.")
