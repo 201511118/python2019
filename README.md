@@ -11,7 +11,7 @@
 [![시연영상](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/-bED3lkkf54) 
 
 ## 사용한 공공데이터 
-[데이터보기](https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001499724&fileDetailSn=1)
+[데이터보기](https://github.com/201511118/python2019/blob/master/park.csv)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/201511118/python2019/blob/master/201511118.py) 
