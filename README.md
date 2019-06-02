@@ -8,7 +8,7 @@
 ## 프로젝트 개요
 연휴 기간 (ex. 설 명절, 추석 명절 등)에는 대한민국 국민의 대다수가 타지방으로 이동한다. 하지만 본래 거주지가 아닌 관계로 유입된 차량 양과 비교하여 준비된 주차 시설이 부족한 경우가 허다하다. 그 때문에 시도별로 별도의 무료주차장을 개방해 주지만, 관련된 정보를 알지 못하여 서비스를 누리지 못하는 상황 또한 발생하고 있다. 이를 방지하기 위해 부산광역시에서 연휴 동안 무료주차장을 개방하는 곳의 정보와 위치를 전달해주는 프로그램이다.
 
-[![시연영상](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/2M16SxwCWow) 
+[![시연영상](https://i.ytimg.com/vi/2M16SxwCWow/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAVZRZeleTUQTDLy8f-zyPgxa9v3A)](https://youtu.be/2M16SxwCWow) 
 
 ## 사용한 공공데이터 
 [데이터보기](https://github.com/201511118/python2019/blob/master/park.csv)
